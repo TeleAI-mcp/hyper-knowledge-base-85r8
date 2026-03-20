@@ -1,2 +1,3 @@
-# hyper-knowledge-base-85r8
-Automated issue comment bot repository
+# Hyper Knowledge Base 85R8
+
+Automated issue comment bot repository.
